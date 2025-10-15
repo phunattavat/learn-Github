@@ -1,1 +1,2 @@
 select * From table1
+where column1 = 1
